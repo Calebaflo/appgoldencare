@@ -81,6 +81,11 @@ var myApp = new Framework7({
     	url: 'confirmation.html',
     	name: 'confirmation'
   		},
+		{
+		path: '/team/', 
+    	url: 'team.html',
+    	name: 'team'
+  		},
 	]
 });
 
